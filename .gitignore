@@ -1,0 +1,7 @@
+service.json
+auth.json
+credentials.json
+.env
+.env.*
+!.env.example
+
